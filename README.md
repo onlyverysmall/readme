@@ -4,7 +4,7 @@ I'm Sarah, an engineering manager at [Creative Market](https://creativemarket.co
 ## Things that are important to me
 * I want you to own your work, and get it done. Ask questions if you need to, find ways to unblock yourself, make a decision. We operate as a team, but owning our work allows us to raise the bar for each other.
 * Be willing to make mistakes, and learn from them. That second part is key — I'm not about placing blame, but I do expect you to take something useful from the experience.
-* Produce quality work. As engineers, we often have constraints that prevent us from building the _ideal_ thing, but we will still build the best thing we can. Make smart compomises; do not take shortcuts.
+* Produce quality work. As engineers, we often have constraints that prevent us from building the _ideal_ thing, but we will still build the best thing we can. Make smart compromises; do not take shortcuts.
 * Speak up when something is wrong. Especially since we are remote, I won't always know when things seem off, you're not feeling 100%, a deadline is in jeopardy, whatever it is. If I don't know, I can't help.
 * Please tell me when I have messed up, or at least tell someone up the management chain so I can course-correct. Say the thing.
 
