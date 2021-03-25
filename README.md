@@ -1,5 +1,5 @@
 # Hello!
-I'm Sarah, an engineering manager at [Creative Market](https://creativemarket.com/). This document is intended to give you an idea of what it's like to work with me. But take it with a grain of salt, because I wrote it, and I've never actually worked with me. If you think it's full of lies, let me know!
+I'm Sarah, an engineering manager at [Brave Care](https://bravecare.com/). This document is intended to give you an idea of what it's like to work with me. But take it with a grain of salt, because I wrote it, and I've never actually worked with me. If you think it's full of lies, let me know!
 
 ## Things that are important to me
 * I want you to own your work, and get it done. Ask questions if you need to, find ways to unblock yourself, make a decision. We operate as a team, but owning our work allows us to raise the bar for each other.
@@ -11,7 +11,7 @@ I'm Sarah, an engineering manager at [Creative Market](https://creativemarket.co
 ## My end of the bargain
 * I will assume you are adept at your job unless you give me good reason to believe otherwise. I will have thoughts and input, but you are the expert. If I do have concerns, we'll talk about them.
 * I'll be as transparent as I can. I'm not very good at deception, and it's not a skill I'm particularly interested in honing, so I won't bother trying to lie. Note, however, that I won't always be able to tell you everything.
-* I have a life outside of work and I guard that time whenever possible. I love Creative Market enough to know that I need to step away from it every day, and I will encourage you to do the same.
+* I have a life outside of work and I guard that time whenever possible. I love Brave Care enough to know that I need to step away from it every day, and I will encourage you to do the same.
 
 ## Fun facts!
 I am an internal processor, to the point that I'm pretty sure I could sit in absolute silence for days and not even notice. Sometimes it takes me awhile to form thoughts that are sensical enough to verbalize. I'm working to get better at this, but if it seems like I'm zoned out, please know that's highly unlikely, and maybe prod me to return to the planet Earth.
